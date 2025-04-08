@@ -1,0 +1,13 @@
+Eu estou escrevendo um codigo que vai gerar um "bloco de palavras" (wordblock).
+Para isso, primeiramente vou fazer o codigo encontrar um palavra de 4 letras. Depois, faço ele procurar
+outra palavra com 4 letras para entrar embaixo dela na tabela.
+Verifica se os cojuntos verticais podem gerar uma palavra.
+
+[ X , X , X , X 
+  Y , Y , Y , Y
+  _ , _ , _ , _
+  _ , _ , _ , _]
+
+Vai verificar se todas as combinações XY podem tornar-se em uma palavra, caso sim vamos para uma terceira 
+palavra
+
