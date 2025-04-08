@@ -12,7 +12,7 @@ matriz = np.empty ((n,n), dtype="U1")
 f = open("lista0.txt", 'r')
 l1 = False
 l2 = False
-l3 = False 
+l3 = False
 l4 = False
 c1 = ''
 c2 = ''
@@ -36,16 +36,15 @@ while True:
             c3 = ''.join(matriz[:,2])
             c4 = ''.join(matriz[:,3])
             print(f'{c1}, {c2}, {c3}, {c4} [1]')
-            debug = debug +1
             print(f'debug {debug}')
-            p = f.readline()
-            if len(p)-1 == n:
-                print('sucesso')
-                if p.startswith(c1):
-                    print(f'{p} [2]')
-                    # p = f.readline()
-                    # if p.startswith(c2):
-                    exit()
+            debug = debug +1
+            l2 = True
+        elif l2 == True and l3 == False:
+            print('sucesso [2]')
+            f.seek(0)
+            while True:
+                p = f.readline()
+                if len(p)-1 == n and p.startswith(c1):
+                    print(f'{p}[3]')
+                    quit()
             
-        elif l2 == True:
-            quit()
