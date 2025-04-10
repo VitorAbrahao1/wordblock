@@ -5,7 +5,7 @@ Verifica se os cojuntos verticais podem gerar uma palavra.
 
 [ X , X , X , X 
   Y , Y , Y , Y
-  _ , _ , _ , _
+  Z , Z , Z , Z
   _ , _ , _ , _]
 
 Vai verificar se todas as combinações XY podem tornar-se em uma palavra, caso sim vamos para uma terceira 

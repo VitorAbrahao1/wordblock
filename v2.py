@@ -42,9 +42,31 @@ while True:
         elif l2 == True and l3 == False:
             print('sucesso [2]')
             f.seek(0)
-            while True:
+            breaker = False
+            while True: #p.startswith(c1) == False and p.startswith(c1) == False and p.startswith(c2) == False and p.startswith(c3) == False and p.startswith(c4) == False:
                 p = f.readline()
                 if len(p)-1 == n and p.startswith(c1):
-                    print(f'{p}[3]')
-                    quit()
-            
+                    print(f'c1: {p}')
+                    
+                    if len(p)-1 == n and p.startswith(c2):
+                        print(f'c2: {p}')
+                        
+                        if len(p)-1 == n  and p.startswith(c3):
+                            print(f'c3: {p}')
+
+                            if len(p)-1 == n  and p.startswith(c4):
+                                print(f'c4: {p}')
+                                quit()
+                            
+                            else:
+                             l2 = False
+                             breaker = True
+                        else:
+                            l2= False
+                            breaker = True
+                    else:
+                        l2 = False
+                        breaker = True
+                else: 
+                    l2 = False
+                    breaker = True
