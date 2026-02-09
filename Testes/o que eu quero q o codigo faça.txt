@@ -3,11 +3,10 @@ Para isso, primeiramente vou fazer o codigo encontrar um palavra de 4 letras. De
 outra palavra com 4 letras para entrar embaixo dela na tabela.
 Verifica se os cojuntos verticais podem gerar uma palavra.
 
-[ X , X , X , X 
-  Y , Y , Y , Y
-  Z , Z , Z , Z
-  _ , _ , _ , _]
+[[ X , X , X , X ] 
+ [ Y , Y , Y , Y ]
+ [ Z , Z , Z , Z ]
+ [ _ , _ , _ , _  ]] 
 
 Vai verificar se todas as combinações XY podem tornar-se em uma palavra, caso sim vamos para uma terceira 
-palavra
-
+palavra (ZZZZ)
