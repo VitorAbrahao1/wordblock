@@ -1,0 +1,300 @@
+
+a b a s
+b a b a
+a b r e
+s a e m
+
+a b a s
+b a ç o
+a ç ã o
+s o o u
+
+a b a s
+b e l a
+a l c e
+s a e m
+
+a b a s
+b e l a
+a l i e
+s a e m
+
+a b a s
+b i c o
+a c h a
+s o a i
+
+a b a s
+b i c o
+a c h a
+s o a m
+
+a b a s
+b i c o
+a c h a
+s o a r
+
+a b a s
+b i c o
+a c u o
+s o o u
+
+a b a s
+b o b a
+a b r e
+s a e m
+
+a b a s
+b o d e
+a d i r
+s e r á
+
+a b a s
+b o l o
+a l ç a
+s o a i
+
+a b a s
+b o l o
+a l ç a
+s o a m
+
+a b a s
+b o l o
+a l ç a
+s o a r
+
+a b a s
+b o l o
+a l f a
+s o a i
+
+a b a s
+b o l o
+a l f a
+s o a m
+
+a b a s
+b o l o
+a l f a
+s o a r
+
+a b a s
+b o l o
+a l t a
+s o a i
+
+a b a s
+b o l o
+a l t a
+s o a m
+
+a b a s
+b o l o
+a l t a
+s o a r
+
+a b a s
+b o t e
+a t a i
+s e i o
+
+a b a s
+b o t e
+a t a i
+s e i s
+
+a b a s
+b o t e
+a t e i
+s e i o
+
+a b a s
+b o t e
+a t e i
+s e i s
+
+a b a s
+s a n e
+a n a l
+s e l á
+
+a b a s
+s a n e
+a n a l
+s e l o
+
+a b a s
+s a n e
+a n e l
+s e l á
+
+a b a s
+s a n e
+a n e l
+s e l o
+
+a b a s
+s a n e
+a n t i
+s e i o
+
+a b a s
+s a n e
+a n t i
+s e i s
+
+a b a s
+s e l o
+a l ç a
+s o a i
+
+a b a s
+s e l o
+a l ç a
+s o a m
+
+a b a s
+s e l o
+a l ç a
+s o a r
+
+a b a s
+s e l o
+a l f a
+s o a i
+
+a b a s
+s e l o
+a l f a
+s o a m
+
+a b a s
+s e l o
+a l f a
+s o a r
+
+a b a s
+s e l o
+a l t a
+s o a i
+
+a b a s
+s e l o
+a l t a
+s o a m
+
+a b a s
+s e l o
+a l t a
+s o a r
+
+a b a s
+s o c a
+a c r e
+s a e m
+
+a c h a
+c e a r
+h a j a
+a r a m
+
+a c h a
+c e a r
+h a j a
+a r a r
+
+a c h a
+c e a r
+h a j a
+a r a s
+
+a c r e
+c e a r
+r a i a
+e r a s
+
+a c r e
+c e a r
+r a j o
+e r o s
+
+a c r e
+c e a r
+r a r a
+e r a s
+
+a d r o
+d o e r
+r e a l
+o r l a
+
+a d r o
+d o e r
+r e a l
+o r l e
+
+a d r o
+d o e r
+r e j a
+o r a i
+
+a d r o
+d o e r
+r e j a
+o r a l
+
+a d r o
+d o e r
+r e j a
+o r a m
+
+a d r o
+d o e r
+r e j a
+o r a r
+
+a d r o
+d o e r
+r e t a
+o r a i
+
+a d r o
+d o e r
+r e t a
+o r a l
+
+a d r o
+d o e r
+r e t a
+o r a m
+
+a d r o
+d o e r
+r e t a
+o r a r
+
+a d r o
+d o o u
+r o a s
+o u s á
+
+a d r o
+d o o u
+r o a s
+o u s o
+
+a d r o
+d o o u
+r o e s
+o u s á
+
+a d r o
+d o o u
+r o e s
+o u s o
+
+a g e s
+g a l ã
+e l m o
+s ã o s
